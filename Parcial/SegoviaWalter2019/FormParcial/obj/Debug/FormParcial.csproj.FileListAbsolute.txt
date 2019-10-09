@@ -1,0 +1,5 @@
+D:\VisualStudio\SegoviaWalter2019\FormParcial\obj\Debug\FormParcial.csprojAssemblyReference.cache
+D:\VisualStudio\SegoviaWalter2019\FormParcial\obj\Debug\FormParcial.btnAgregarPlaneta.resources
+D:\VisualStudio\SegoviaWalter2019\FormParcial\obj\Debug\FormParcial.Properties.Resources.resources
+D:\VisualStudio\SegoviaWalter2019\FormParcial\obj\Debug\FormParcial.csproj.GenerateResource.cache
+D:\VisualStudio\SegoviaWalter2019\FormParcial\obj\Debug\FormParcial.csproj.CoreCompileInputs.cache
